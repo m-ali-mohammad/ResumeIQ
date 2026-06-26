@@ -1,0 +1,84 @@
+skill,category,learning_resource
+Python,Programming,https://docs.python.org
+JavaScript,Programming,https://developer.mozilla.org
+Java,Programming,https://docs.oracle.com/en/java/
+C++,Programming,https://cplusplus.com
+C#,Programming,https://learn.microsoft.com/en-us/dotnet/csharp/
+TypeScript,Programming,https://www.typescriptlang.org/docs/
+Go,Programming,https://go.dev/doc/
+Rust,Programming,https://www.rust-lang.org/learn
+Swift,Programming,https://swift.org/documentation/
+Kotlin,Programming,https://kotlinlang.org/docs/
+SQL,Database,https://www.w3schools.com/sql/
+MySQL,Database,https://dev.mysql.com/doc/
+PostgreSQL,Database,https://www.postgresql.org/docs/
+MongoDB,Database,https://www.mongodb.com/docs/
+Redis,Database,https://redis.io/docs/
+SQLite,Database,https://www.sqlite.org/docs.html
+Oracle,Database,https://docs.oracle.com/en/database/
+Cassandra,Database,https://cassandra.apache.org/doc/
+DynamoDB,Database,https://docs.aws.amazon.com/dynamodb/
+Neo4j,Database,https://neo4j.com/docs/
+Machine Learning,AI/ML,https://scikit-learn.org/stable/
+Deep Learning,AI/ML,https://www.tensorflow.org/learn
+TensorFlow,AI/ML,https://www.tensorflow.org/learn
+PyTorch,AI/ML,https://pytorch.org/tutorials/
+Scikit-learn,AI/ML,https://scikit-learn.org/stable/
+Keras,AI/ML,https://keras.io/guides/
+NLP,AI/ML,https://huggingface.co/learn
+Computer Vision,AI/ML,https://opencv.org/
+OpenCV,AI/ML,https://opencv.org/
+Pandas,Data Science,https://pandas.pydata.org/docs/
+NumPy,Data Science,https://numpy.org/doc/
+Matplotlib,Data Science,https://matplotlib.org/stable/tutorials/
+Seaborn,Data Science,https://seaborn.pydata.org/tutorial.html
+Plotly,Data Science,https://plotly.com/python/
+Jupyter,Data Science,https://jupyter.org/documentation
+R,Data Science,https://www.r-project.org/
+Tableau,Data Visualization,https://help.tableau.com/
+Power BI,Data Visualization,https://learn.microsoft.com/en-us/power-bi/
+Looker,Data Visualization,https://cloud.google.com/looker/docs
+React,Web Development,https://react.dev/learn
+Angular,Web Development,https://angular.io/docs
+Vue.js,Web Development,https://vuejs.org/guide/
+Node.js,Web Development,https://nodejs.org/en/docs/
+Django,Web Development,https://docs.djangoproject.com/
+Flask,Web Development,https://flask.palletsprojects.com/
+FastAPI,Web Development,https://fastapi.tiangolo.com/tutorial/
+Spring Boot,Web Development,https://spring.io/guides
+Laravel,Web Development,https://laravel.com/docs/
+Express.js,Web Development,https://expressjs.com/en/guide/
+HTML,Web Development,https://developer.mozilla.org/en-US/docs/Web/HTML
+CSS,Web Development,https://developer.mozilla.org/en-US/docs/Web/CSS
+AWS,Cloud,https://aws.amazon.com/getting-started/
+Azure,Cloud,https://learn.microsoft.com/en-us/azure/
+Google Cloud,Cloud,https://cloud.google.com/docs
+Docker,DevOps,https://docs.docker.com/get-started/
+Kubernetes,DevOps,https://kubernetes.io/docs/tutorials/
+Git,DevOps,https://git-scm.com/doc
+CI/CD,DevOps,https://www.atlassian.com/continuous-delivery
+Jenkins,DevOps,https://www.jenkins.io/doc/tutorials/
+Terraform,DevOps,https://developer.hashicorp.com/terraform/tutorials
+Ansible,DevOps,https://docs.ansible.com/
+Linux,System,https://www.linux.org/pages/learn/
+Bash,System,https://www.gnu.org/software/bash/manual/
+REST API,Architecture,https://restfulapi.net/
+GraphQL,Architecture,https://graphql.org/learn/
+Microservices,Architecture,https://microservices.io/
+Agile,Methodology,https://www.agilealliance.org/agile101/
+Scrum,Methodology,https://www.scrum.org/resources/what-scrum-module
+JIRA,Tools,https://support.atlassian.com/jira-software-cloud/
+Figma,Design,https://help.figma.com/hc/en-us
+Excel,Productivity,https://support.microsoft.com/en-us/excel
+ETL,Data Engineering,https://www.talend.com/resources/what-is-etl/
+Apache Spark,Data Engineering,https://spark.apache.org/docs/latest/
+Airflow,Data Engineering,https://airflow.apache.org/docs/
+Kafka,Data Engineering,https://kafka.apache.org/documentation/
+Hadoop,Data Engineering,https://hadoop.apache.org/docs/stable/
+Snowflake,Data Engineering,https://docs.snowflake.com/en/
+dbt,Data Engineering,https://docs.getdbt.com/
+Cybersecurity,Security,https://www.coursera.org/courses?query=cybersecurity
+Penetration Testing,Security,https://www.offensive-security.com/
+Network Security,Security,https://www.cisco.com/c/en/us/training-events/
+Blockchain,Emerging Tech,https://ethereum.org/en/developers/docs/
+Solidity,Emerging Tech,https://docs.soliditylang.org/
