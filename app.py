@@ -704,12 +704,12 @@ with st.sidebar:
 
     st.markdown("<br>", unsafe_allow_html=True)
     st.markdown("""
-    <div style="color:var(--text-3);font-size:0.75rem;text-align:center;padding:0.5rem">
-        SITER Academy, Norge<br>Summer Internship 2026<br><br>
-        <span style="color:var(--border)">────────────────</span><br>
-        Built with Python & Streamlit
-    </div>
-    """, unsafe_allow_html=True)
+<div style="color:var(--text-3);font-size:0.75rem;text-align:center;padding:0.5rem">
+    SITER Academy, Norge<br>Summer Internship 2026<br><br>
+    <span style="color:var(--border)">────────────────</span><br>
+    Built with Python & Streamlit
+</div>
+""", unsafe_allow_html=True)
 
 
 # ─── PAGE ROUTING ─────────────────────────────────────────────────────────────
