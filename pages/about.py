@@ -141,8 +141,6 @@ def show():
         st.markdown("""
         <div class="info-card">
             <table class="info-table">
-                <tr><td class="info-key">Academy</td><td class="info-val">SITER Academy, Norge</td></tr>
-                <tr><td class="info-key">Program</td><td class="info-val">Summer Internship 2026</td></tr>
                 <tr><td class="info-key">Language</td><td class="info-val">Python 3.10+</td></tr>
                 <tr><td class="info-key">Deployment</td><td class="info-val">Streamlit Community Cloud</td></tr>
                 <tr><td class="info-key">License</td><td class="info-val">MIT</td></tr>
