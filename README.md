@@ -1,6 +1,6 @@
 # 🎯 ResumeIQ — AI-Powered Resume Analyzer and Career Enhancement Assistant
 
-> **SITER Academy, Norge — Summer Internship 2026**  
+> **SITER Academy, Norway — Summer Internship 2026**  
 > **Domain:** Artificial Intelligence (AI)  
 > **Type:** Web Application
 
@@ -226,7 +226,7 @@ Match Score: 72%
 
 ## 👨‍💻 Author
 
-- **Academy:** SITER Academy, Norge  
+- **Academy:** SITER Academy, Norway  
 - **Program:** Summer Internship 2026  
 - **Domain:** Artificial Intelligence (AI)
 
