@@ -1,9 +1,9 @@
 # 🎯 ResumeIQ — AI-Powered Resume Analyzer and Career Enhancement Assistant
 
-> **SITER Academy, Norway — Summer Internship 2026**  
-> **Domain:** Artificial Intelligence (AI)  
-> **Type:** Web Application
+AI-Powered Resume Analyzer & Career Enhancement Assistant
 
+Domain: Artificial Intelligence (AI)
+Type: Web Application
 ---
 
 ## 📌 Project Overview
@@ -94,6 +94,7 @@ ResumeIQ/
 │
 ├── docs/
 │   └── ResumeIQ_Client_Guide.pdf   #User Guide
+│
 ├── assets/
 │   └── (images/icons)
 │
@@ -136,13 +137,11 @@ The app will open at `http://localhost:8501`
 
 ## 🌐 Deployment — Streamlit Community Cloud (Free)
 
-1. Push your project to GitHub
-2. Visit [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub
-4. Click **New app** → Select repo → Set `app.py` as main file
-5. Click **Deploy** — live in ~2 minutes!
+## 🌐 Live Demo
 
----
+https://resumeiq--ai.streamlit.app/
+
+The application is deployed using Streamlit Community Cloud.
 
 ## 📊 System Architecture
 
@@ -228,10 +227,13 @@ Match Score: 72%
 
 ## 👨‍💻 Author
 
-- **Academy:** SITER Academy, Norway  
-- **Program:** Summer Internship 2026  
-- **Domain:** Artificial Intelligence (AI)
+Name: Md Shaik Alipasha
 
+GitHub: https://github.com/m-ali-mohammad
+
+Project: ResumeIQ
+
+Domain: Artificial Intelligence (AI)
 ---
 
 ## 📄 License
