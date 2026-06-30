@@ -92,6 +92,8 @@ ResumeIQ/
 ├── data/
 │   └── skills.csv            # Skills database (80+ skills)
 │
+├── docs/
+│   └── ResumeIQ_Client_Guide.pdf   #User Guide
 ├── assets/
 │   └── (images/icons)
 │
